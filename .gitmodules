@@ -1,0 +1,15 @@
+[submodule "OS-Lab5"]
+	path = OS-Lab5
+	url = https://github.com/OmidPanakari/OS-Lab5
+[submodule "Dining-Philosophers--in-xv6"]
+	path = Dining-Philosophers--in-xv6
+	url = https://github.com/Perriex/Dining-Philosophers--in-xv6
+[submodule "System-calls-in-xv6"]
+	path = System-calls-in-xv6
+	url = https://github.com/Perriex/System-calls-in-xv6
+[submodule "OS_Lab3"]
+	path = OS_Lab3
+	url = https://github.com/MorriexUTprojects/OS_Lab3
+[submodule "OS-CA1"]
+	path = OS-CA1
+	url = https://github.com/MorriexUTprojects/OS-CA1
